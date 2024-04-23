@@ -14,3 +14,7 @@ public:
         cout << "Jurusan:" << jurusan << endl;
     }
 };
+
+class Matakuliah{
+private: 
+};
